@@ -1,0 +1,16 @@
+Render External Url:
+
+postgresql://shoestore_nextjs_strapi_user:sNIkHljtfK9SIxBib7DCOwdesbpIVkEt@dpg-cqsgm2dsvqrc73fjm8k0-a.singapore-postgres.render.com/shoestore_nextjs_strapi
+
+
+dpg-cqsgm2dsvqrc73fjm8k0-a.singapore-postgres.render.com
+
+Strapi Pass : 
+
+Tahsin#strapishoestore$1302
+
+
+
+Strapi Token:
+
+d5f324050ef508fcbe185d11787a0598cedce6a5a37791c726e1b2bd92896a58efec576121c1bad093e58d18d5d09ac30006b24003893ca0649d96cffabbddb256a934ed8939e86de32773299b568d569ffe19737179fae22ab1a31b7aa68c64ff79dc3cac04acba2cbb124fff80c32ac8740b5858fc9a19e56f1b9c8f7cdeed
