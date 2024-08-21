@@ -23,7 +23,10 @@ module.exports = [
   {
     name: 'strapi::cors',
     config: {
-      origin: ['http://localhost:3000'], // Add your Next.js frontend URL
+      // origin: ['http://localhost:3000'], // Add your Next.js frontend URL
+      
+      origin: ['https://tahsin-main-shoe-store-strapi-yt-tut-frontend.vercel.app', 'http://localhost:3000'],
+
       methods: ['GET', 'POST', 'PUT', 'PATCH', 'DELETE', 'OPTIONS'],
       headers: ['Content-Type', 'Authorization'],
       keepHeaderOnError: true,
